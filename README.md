@@ -7,6 +7,10 @@ Até o momento não desenvolvi nenhum projeto, espero conseguir começar a desen
 
 Além disso, espero conseguir no futuro me desenvolver na área da programação e chegar a trabalhar em uma empresa internacional, ainda não tenho certeza de em qual campo da programação desejo me especializar, mas até o momento o desenvolvimento back-end foi o que mais me chamou interesse.
 
-## Links para contato:
+### Links para contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-araujo-52118a341)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.daviaraujo)
+- -
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=d-araujo&show_icons=true&theme=radical)
+- -
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=d-araujo&layout=compact&theme=radical)
