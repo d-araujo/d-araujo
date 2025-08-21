@@ -1,5 +1,5 @@
 # Prazer, me chamo Davi 🖐️
-*Tenho 18 anos e atualmente estou cursando Sistemas de Informação na UFBA, sou uma pessoa muito eclética em relação a tudo, gosto sempre de estar me aventurando em novas jornadas*
+*Tenho 18 anos e atualmente estou cursando Sistemas de Informação na UFBA, sou uma pessoa muito eclética em relação a tudo, gosto sempre de estar me aventurando em novas jornadas.*
 
 Em relação aos meus conhecimentos técnicos de programação, estou bem no ínicio de meus estudos, já realizei um curso introdutório sobre python, então é a linguagem que mais domino atualmente, além disso sei as estruturas básicas de C++, JavaScript e lógica de programação.
 
